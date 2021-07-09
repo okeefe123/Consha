@@ -1,4 +1,5 @@
 # Consha
+Conscious shopping made easy.
 
 ## For Shoppers:
 
